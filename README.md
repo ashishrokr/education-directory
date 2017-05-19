@@ -45,6 +45,27 @@
  
 # ScreenShots
  ## Student Login ##
+ ![alt text](https://github.com/ashishrokr/education-directory/blob/master/1.PNG)
+ 
+ ![alt text](https://github.com/ashishrokr/education-directory/blob/master/2.PNG)
+ 
+ ![alt text](https://github.com/ashishrokr/education-directory/blob/master/3.PNG)
+  
+ ![alt text](https://github.com/ashishrokr/education-directory/blob/master/4.PNG)
+ 
+ ![alt text](https://github.com/ashishrokr/education-directory/blob/master/5.PNG)
+ 
+ ![alt text](https://github.com/ashishrokr/education-directory/blob/master/6.PNG)
+ 
+ ![alt text](https://github.com/ashishrokr/education-directory/blob/master/7.PNG)
+ 
+ ![alt text](https://github.com/ashishrokr/education-directory/blob/master/8.PNG)
+ 
+ ![alt text](https://github.com/ashishrokr/education-directory/blob/master/9.PNG)
  
  
  ## Faculty Login ##
+ 
+![alt text](https://github.com/ashishrokr/education-directory/blob/master/10.PNG)
+
+![alt text](https://github.com/ashishrokr/education-directory/blob/master/11.PNG)
